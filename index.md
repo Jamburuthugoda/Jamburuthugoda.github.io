@@ -2,7 +2,7 @@
 layout: default
 title: Jamburuthugoda Lab
 ---
-
+<img src="/lab_photo.jpeg" width="700">
 # Jamburuthugoda Lab
 
 ### Enzyme Structure–Function and Undergraduate Biochemistry Research
