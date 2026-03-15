@@ -1,1 +1,18 @@
+---
+---
 
+@import "minima";
+
+/* Light gradient background */
+
+body {
+  background: linear-gradient(135deg, #f7fbff, #dbeeff);
+}
+
+/* Content box */
+
+.page-content {
+  background: rgba(255,255,255,0.95);
+  padding: 25px;
+  border-radius: 10px;
+}
