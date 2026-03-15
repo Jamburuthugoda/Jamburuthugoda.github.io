@@ -1,4 +1,4 @@
----
+<img src="/lab_photo.jpeg" width="700">---
 layout: default
 title: Jamburuthugoda Lab
 ---
