@@ -1,6 +1,14 @@
-
 ---
+layout: default
+title: Jamburuthugoda Lab
+---
+
+<div style="background: linear-gradient(135deg, #f7fbff, #dbeeff); padding: 30px; border-radius: 16px;">
+
+<p align="center">
 <img src="/lab_photo.jpeg" width="700">
+</p>
+
 # Jamburuthugoda Lab
 
 ### Enzyme Structure–Function and Undergraduate Biochemistry Research
@@ -11,10 +19,10 @@ Our research focuses on understanding **enzyme structure–function relationship
 
 We combine approaches from:
 
-- Biochemistry
-- Enzyme kinetics
-- Structural biology
-- Computational analysis
+- Biochemistry  
+- Enzyme kinetics  
+- Structural biology  
+- Computational analysis  
 
 to investigate catalytic mechanisms and metabolic regulation.
 
@@ -24,10 +32,10 @@ A central mission of the lab is to provide meaningful **undergraduate research e
 
 ## Research Areas
 
-• Enzyme structure–function relationships  
-• Malate dehydrogenase mechanisms  
-• Metabolic enzyme regulation  
-• Undergraduate research in biochemistry
+- Enzyme structure–function relationships  
+- Malate dehydrogenase mechanisms  
+- Metabolic enzyme regulation  
+- Undergraduate research in biochemistry  
 
 ---
 
@@ -35,3 +43,5 @@ A central mission of the lab is to provide meaningful **undergraduate research e
 
 Department of Biology  
 SUNY Geneseo
+
+</div>
